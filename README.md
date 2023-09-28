@@ -14,7 +14,7 @@ Esta é uma API simples para gerenciar alunos de uma academia, onde você pode c
 
 1. Clone o repositório:
 ````
-git clone <URL_DO_REPOSITORIO>
+git clone git@github.com:Prdsilva80/academia-api.git
 
 ````
 2. Instale as dependências:
